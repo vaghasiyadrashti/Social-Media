@@ -2,8 +2,6 @@
 
 A scalable and secure backend system for a social media application, built using **Node.js, Express, and MongoDB**. This project implements authentication, media uploads, and structured API architecture following industry best practices.
 
----
-
 ## 📌 Features
 
 * 🔐 JWT-based Authentication & Authorization
@@ -13,8 +11,6 @@ A scalable and secure backend system for a social media application, built using
 * 🍪 Secure session handling with cookies
 * 🔒 Password hashing using **bcrypt**
 
----
-
 ## 🛠️ Tech Stack
 
 * **Backend:** Node.js, Express.js
@@ -23,8 +19,6 @@ A scalable and secure backend system for a social media application, built using
 * **File Upload:** Multer
 * **Cloud Storage:** Cloudinary
 * **Security:** bcrypt, cookie-parser
-
----
 
 ## 📁 Project Structure
 
@@ -38,8 +32,6 @@ src/
  ├── app.js
  └── index.js
 ```
-
----
 
 ## ⚙️ Installation & Setup
 
